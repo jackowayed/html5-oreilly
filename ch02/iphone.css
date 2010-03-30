@@ -56,9 +56,6 @@ body {
     -webkit-border-bottom-left-radius: 8px;
     -webkit-border-bottom-right-radius: 8px;
 }
-#header ul.hide {
-    display: none;
-}
 #header div.leftButton {
     position: absolute;
     top: 7px;
