@@ -27,7 +27,7 @@ function loadPage(url) {
         }
         $('#container a').click(function(e){
             var url = e.target.href;
-            if (url.match(/jonathanstark.com/)) {
+            if (url.match(/jackowayed.github.com\/html5-oreilly/)) {
                 e.preventDefault();
                 loadPage(url);
             }
